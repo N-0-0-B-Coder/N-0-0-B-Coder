@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @N-0-0-B-Coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-N-0-0-B-Coder/N-0-0-B-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, my name is **Đào Châu Nghĩa**, I graduated from Đà Nẵng University of Science and Technology.
+## I'm currently Technical Manager at Meria Hotel.
+## I'm interesting in working with embedded sytems (I'm learning STM32).
